@@ -1,3 +1,5 @@
+// I need to change this to work with MMM
+
 function make2DArray(cols, rows) {
     let arr = new Array(cols);
     for (let i = 0; i < arr.length; i++) {
